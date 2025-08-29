@@ -1,0 +1,16 @@
+{
+  "login": {
+    "username": "BJ101TC",
+    "password": "009234"
+  },
+  "settings": {
+    "target_avatar_id": "410a1f0",
+    "headless_mode": false,
+    "max_retries": 3,
+    "base_timeout": 60000
+  },
+  "paths": {
+    "data_folder": "data",
+    "logs_folder": "logs"
+  }
+}
